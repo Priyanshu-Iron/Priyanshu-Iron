@@ -14,6 +14,8 @@
 🤖 Exploring Machine Learning, Computer Vision, and backend architectures.  
 🎯 Always learning, experimenting, and building.
 
+> **“I Build, What I Learn.”**
+
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -40,7 +42,7 @@
 
 ## 📈 GitHub Stats (Minimal)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Iron&layout=compact&theme=github_dark&hide_border=true&langs_count=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Iron&layout=compact&theme=github_dark&hide_border=true&langs_count=5)
 
 ---
 
@@ -53,4 +55,4 @@
 
 ---
 
-_✨ “I Build, What I Learn.”_
+_✨ “Code. Learn. Repeat.”_
