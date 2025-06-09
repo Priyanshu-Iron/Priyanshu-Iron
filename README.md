@@ -40,12 +40,6 @@
 
 ---
 
-## 📈 GitHub Stats (Minimal)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Iron&layout=compact&theme=github_dark&hide_border=true&langs_count=5)
-
----
-
 ## 🌐 Connect with Me
 
 📫 **Email:** [ps2894944@gmail.com](mailto:ps2894944@gmail.com)  
