@@ -65,8 +65,12 @@ I specialize in architecting scalable **RAG (Retrieval-Augmented Generation)** s
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-Iron&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Iron&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Priyanshu-Iron&theme=radical&no-frame=true&margin-w=15" alt="trophy" />
+  </a>
+  <br/>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Priyanshu-Iron&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
