@@ -1,54 +1,75 @@
-# 👋 Hey there, I'm **Priyanshu Kumar Singh**
+# Hi there, I'm Priyanshu Kumar Singh! 👋
 
-💻 **Software Developer** @ Nippon Data Systems
-🧠 **AI & ML Explorer** | 🛠 **Full Stack Developer** (Python + JavaScript)
-🎓 **BCA in AI & ML** @ Galgotias University
-🌐 I build real-time, scalable tech that solves real problems
+### 👨‍💻 Software Developer (GenAI & Backend) @ [Nippon Data Systems](https://www.nippondata.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/priyanshu-singh-3a6777212/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-purple?style=for-the-badge&logo=google-chrome)](https://priyanshuxsingh-portfolio.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:ps2894944@gmail.com)
 
 ---
 
 ## 💡 About Me
 
-🚀 Developer fueled by curiosity, creativity, and caffeine.
-🔧 Skilled in full-stack development, intelligent systems, and automation.
-🤖 Exploring **Machine Learning**, **Computer Vision**, and **Generative AI**.
-⚙️ Passionate about building efficient backend architectures and data-driven apps.
-🎯 Always learning, experimenting, and turning ideas into impact.
+I am a **Backend & Generative AI Developer** based in **Noida, India**.
+I specialize in architecting scalable **RAG (Retrieval-Augmented Generation)** systems and high-performance **Microservices**. Currently, I am building enterprise-grade AI bots that solve real-world compliance and HR problems.
 
-> **“I Build, What I Learn.”**
-
----
-
-## 🛠️ Tech Stack & Tools
-
-🧾 **Languages:**
-`JavaScript` • `Python` • `SQL` • `MongoDB` • `HTML` • `CSS`
-
-🧰 **Frameworks & Libraries:**
-`React.js` • `Node.js` • `Express.js` • `Django` • `Flask` • `OpenCV` • `LangChain`
-
-🛠️ **Tools & Platforms:**
-`Git` • `GitHub` • `Postman` • `VS Code` • `MongoDB Atlas` • `MongoDB Compass`
-
-🧠 **Domains:**
-`Full Stack Development` • `Machine Learning` • `Generative AI` • `Computer Vision` • `NLP`
-
-📜 **Certifications:**
-✅ [AWS Cloud Foundations](https://www.credly.com/badges/b5f3aec3-9bc7-4a34-abd1-c07b6ce41388/public_url)
-✅ [IBM AI Fundamentals](https://www.credly.com/badges/318c0ca3-6dd1-49a0-9ec0-1a42e7c07030/public_url)
-✅ [AWS ML Foundations](https://www.credly.com/badges/b8d58a1b-ff58-4630-84af-efc0e827fee0/public_url)
-✅ [OpenCV Python Certification](https://courses.opencv.org/certificates/1e5c6f1218364c6689d1953be75ae4bb)
-✅ [Building GenAI Apps – MongoDB Atlas](https://learn.mongodb.com/learn/learning-path/building-genai-apps-learning-badge-path)
+* 🔭 **I’m currently working on:** Enterprise RAG Pipelines & Resume Scoring Engines.
+* 🌱 **I’m currently learning:** Advanced RAG Evaluation (RAGAS) & System Design.
+* 👯 **I’m looking to collaborate on:** Open Source GenAI & Backend Tooling.
+* ⚡ **Fun fact:** I follow **Demon Slayer** religiously and I'm a gym enthusiast! 🏋️‍♂️
 
 ---
 
-## 🌐 Connect with Me
+## 🛠️ Tech Stack
 
-📫 **Email:** [ps2894944@gmail.com](mailto:ps2894944@gmail.com)
-🔗 **Portfolio:** [priyanshuxsingh-portfolio.netlify.app](https://priyanshuxsingh-portfolio.netlify.app)
-💼 **LinkedIn:** [@priyanshu-singh-3a6777212](https://www.linkedin.com/in/priyanshu-singh-3a6777212/)
-💻 **GitHub:** [@Priyanshu-Iron](https://github.com/Priyanshu-Iron)
+### **Generative AI & ML**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### **Backend & Systems**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Vector_DB-Pinecone-green?style=for-the-badge)
 
 ---
 
-*✨ “Code. Learn. Repeat.”*
+## 📂 Key Projects
+
+| Project | Stack | Description |
+| :--- | :--- | :--- |
+| **[Activity Detection & Timeline Analysis](https://github.com/Priyanshu-Iron/-Activity-Detection-Timeline-Analysis)** | *Transformers, NLP, Streamlit* | Zero-shot classification pipeline to categorize activities from text/video without training data. |
+| **[4-in-a-Row (Multiplayer)](https://github.com/Priyanshu-Iron/4-in-a-Row)** | *Kafka, WebSockets, Node.js* | Real-time distributed game with event streaming, fault tolerance, and Minimax AI integration. |
+| **[AOTS (Object Tracking)](https://github.com/Priyanshu-Iron/AOTS)** | *YOLOv8, OpenCV, Flask* | Real-time surveillance backend using CSRT tracking and deep learning detection. |
+
+---
+
+## 📜 Certifications
+* ✅ **Building GenAI Applications** (MongoDB)
+* ✅ **IBM AI Fundamentals** (IBM)
+* ✅ **AWS Academy Cloud Foundations** (AWS)
+* ✅ **Machine Learning Foundations** (AWS)
+* ✅ **OpenCV Bootcamp** (OpenCV University)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-Iron&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Iron&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+<p align="center">
+  <i>"Code. Learn. Repeat."</i>
+</p>
