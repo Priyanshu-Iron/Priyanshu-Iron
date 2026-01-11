@@ -64,9 +64,7 @@ I specialize in architecting scalable **RAG (Retrieval-Augmented Generation)** s
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Priyanshu-Iron&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  
+<div align="center">  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu-Iron&theme=tokyo-night&hide_border=true" height="190" alt="activity graph" />
 </div>
 
