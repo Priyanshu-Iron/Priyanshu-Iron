@@ -84,17 +84,6 @@ ninja_way  : "Never ship without a benchmark."
 
 <p align="center"><img src="./assets/energy-divider.svg" width="100%"/></p>
 
-## 🎯 Active Missions
-
-| Rank | Mission | Objective | Result |
-|:--:|:--|:--|:--|
-| 🟥 **S** | **Newton WorkAI** | Multi-tenant AI that answers and acts across ERP, CRM, HR, ITSM | LangGraph agents, cited RAG, NL→SQL, sub-second TTFT |
-| 🟥 **S** | **Newton ProcessAI** | Template-free 7-stage OCR + VLM pipeline | 99.79% accuracy, 0.93 F1, under 0.5s per doc |
-| 🟧 **A** | **Newton ATS AI** | TalentScore resume ranking + semantic CV search | TF-IDF + LLM, explainable gaps |
-| 🟧 **A** | **Vigil Eyes** | 6 YOLO detectors on live camera streams | under 20 ms per frame on GPU |
-
-<p align="center"><img src="./assets/energy-divider.svg" width="100%"/></p>
-
 ## 📜 Mission Scrolls
 
 <table>
