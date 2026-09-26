@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="mailto:ps2894944@gmail.com"><img src="https://img.shields.io/badge/COMMS-ps2894944%40gmail.com-B71C1C?style=for-the-badge&logo=gmail&logoColor=FFD76A&labelColor=1a0000"/></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LINK-LinkedIn-B71C1C?style=for-the-badge&logo=linkedin&logoColor=FFD76A&labelColor=1a0000"/></a>
+  <a href="https://www.linkedin.com/in/priyanshu-singh-3a6777212/"><img src="https://img.shields.io/badge/LINK-LinkedIn-B71C1C?style=for-the-badge&logo=linkedin&logoColor=FFD76A&labelColor=1a0000"/></a>
   <img src="https://img.shields.io/badge/BASE-Noida%2C%20India-B71C1C?style=for-the-badge&logo=googlemaps&logoColor=FFD76A&labelColor=1a0000"/>
 </p>
 
